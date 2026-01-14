@@ -1,6 +1,6 @@
-# ENPH353_Competition
+# license-plate-detection
 
-The code contained in this repository was developed by Sarah Gauthier and Sayeh Oloumi Yazdi.
+_The code contained in this repository was developed by Sarah Gauthier and Sayeh Oloumi Yazdi._
 
 In this project, we developed the control code for a robot navigating in a Gazebo simulated environment. The goal was to implement an autonomous agent capable of driving through the environment while obeying traffic laws and returning license plates of parked cars and associated parking IDs. The competition surface is the following:
 

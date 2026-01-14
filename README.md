@@ -2,7 +2,7 @@
 
 _The code contained in this repository was developed by Sarah Gauthier and Sayeh Oloumi Yazdi._
 
-In this project, we developed the control code for a robot navigating in a Gazebo simulated environment. The goal was to implement an autonomous agent capable of driving through the environment while obeying traffic laws and returning license plates of parked cars and associated parking IDs. The competition surface is the following:
+In this project, we developed the control code for a robot navigating in a Gazebo simulated environment. The goal was to implement an autonomous agent capable of driving through the environment while obeying traffic laws and returning license plates of parked cars and associated parking IDs. The surface of the simulated environment is the following:
 
 <img width="735" alt="image" src="https://user-images.githubusercontent.com/90274880/208264855-23070342-e6bc-456c-9bb1-a8fe748165ba.png">
 

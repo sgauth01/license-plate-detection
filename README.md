@@ -8,9 +8,11 @@ In this project, we developed the control code for a robot navigating in a Gazeb
 
 The only input we receive from the environment is real-time images from the in-simulation camera view from the robot. We have two different ROS nodes that process these images. One of these nodes publishes velocity commands to move the robot around the environment, while the other publishes license plate numbers and locations to a license plate tracker application. These nodes run in parallel to ensure the robot is driving and detecting license plates simultaneously.
 
-Here is our software folder tree structure:
+### Software Folder Tree Structure
 
 <img width="599" alt="image" src="https://user-images.githubusercontent.com/90274880/208264520-3fd71a63-ac37-49bd-910a-5356384b453c.png">
+
+### Project Requirements
 
 The requirements our control software is trying to achieve can be broken down into two different categories: the driving requirements and the license plate detection requirements. 
 
